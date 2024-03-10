@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./parent-component.component.css']
 })
 export class ParentComponentComponent {
-
+ frase: string= "Soy el padre comunicandome con el hijo"
 }
